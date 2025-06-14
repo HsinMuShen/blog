@@ -1,7 +1,8 @@
 # My Blog
 
-Hi, I’m Hsin Mu—feel free to call me Michael. I’m a software engineer with an architecture background who now spends most of his time in the frontend world. 
+Hi, I'm Hsin Mu—feel free to call me Michael. I'm a software engineer with an architecture background who now spends most of his time in the frontend world. 
 This repository is my personal blog: each GitHub Issue captures lessons, experiments, and reflections from both work and life.
+
 
 ## How to Read
 
@@ -15,6 +16,10 @@ This repository is my personal blog: each GitHub Issue captures lessons, experim
 1. Star this repository to keep track of updates
 2. Watch the repository to receive notifications for new posts
 3. Follow me on GitHub to stay connected
+
+## Articles
+
+- [What I Learned From Leaving a Great Job](https://github.com/HsinMuShen/blog/issues/1)
 
 ## Contact
 
