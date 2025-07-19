@@ -20,6 +20,7 @@ This repository is my personal blog: each GitHub Issue captures lessons, experim
 ## Articles
 
 - [What I Learned From Leaving a Great Job](https://github.com/HsinMuShen/blog/issues/1)
+- [Using BroadcastChannel API for Cross-Tab Session Synchronization](https://github.com/HsinMuShen/blog/issues/3)
 
 ## Contact
 
