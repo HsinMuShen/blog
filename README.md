@@ -21,6 +21,7 @@ This repository is my personal blog: each GitHub Issue captures lessons, experim
 
 - [What I Learned From Leaving a Great Job](https://github.com/HsinMuShen/blog/issues/1)
 - [Using BroadcastChannel API for Cross-Tab Session Synchronization](https://github.com/HsinMuShen/blog/issues/3)
+- [React Timer Hooks: How useTimeout and useTimeoutFn Simplify Your Code](https://github.com/HsinMuShen/blog/issues/5)
 
 ## Contact
 
