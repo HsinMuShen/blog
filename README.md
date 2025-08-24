@@ -23,6 +23,7 @@ This repository is my personal blog: each GitHub Issue captures lessons, experim
 - [Using BroadcastChannel API for Cross-Tab Session Synchronization](https://github.com/HsinMuShen/blog/issues/3)
 - [React Timer Hooks: How useTimeout and useTimeoutFn Simplify Your Code](https://github.com/HsinMuShen/blog/issues/5)
 - [Under the Hood: How useTimeout and useTimeoutFn Actually Work](https://github.com/HsinMuShen/blog/issues/7)
+- [Answer Engine Optimization (AEO): A Technical Guide for Engineers](https://github.com/HsinMuShen/blog/issues/9)
 
 ## Contact
 
