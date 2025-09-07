@@ -25,6 +25,12 @@ This repository is my personal blog: each GitHub Issue captures lessons, experim
 - [Under the Hood: How useTimeout and useTimeoutFn Actually Work](https://github.com/HsinMuShen/blog/issues/7)
 - [Answer Engine Optimization (AEO): A Technical Guide for Engineers](https://github.com/HsinMuShen/blog/issues/9)
 
+### 🔗 Blockchain Learning Series
+- [From Web Developer to Blockchain Engineer: Blog Series](https://github.com/HsinMuShen/blog/issues/11) (Overview)
+  - Part 1-1: [What is Blockchain? A Developer's Guide Beyond the Hype](https://github.com/HsinMuShen/blog/issues/12)
+  - Part 1-2: [Web2 vs Web3: What Changes for Developers?](https://github.com/HsinMuShen/blog/issues/13)
+  - Part 1-3: [Setting Up Your Web3 Developer Environment with Hardhat v3 + ethers.js](https://github.com/HsinMuShen/blog/issues/14)
+
 ## Contact
 
 Feel free to reach out to me through:
