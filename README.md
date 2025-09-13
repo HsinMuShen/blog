@@ -30,6 +30,10 @@ This repository is my personal blog: each GitHub Issue captures lessons, experim
   - Part 1-1: [What is Blockchain? A Developer's Guide Beyond the Hype](https://github.com/HsinMuShen/blog/issues/12)
   - Part 1-2: [Web2 vs Web3: What Changes for Developers?](https://github.com/HsinMuShen/blog/issues/13)
   - Part 1-3: [Setting Up Your Web3 Developer Environment with Hardhat v3 + ethers.js](https://github.com/HsinMuShen/blog/issues/14)
+  - Part 1-4: [Intro to Smart Contracts: The "Hello World" of Blockchain](https://github.com/HsinMuShen/blog/issues/16)
+  - Part 1-5: [Deep Dive into Solidity: Syntax, Data Types & Functions](https://github.com/HsinMuShen/blog/issues/17)
+
+  
 
 ## Contact
 
