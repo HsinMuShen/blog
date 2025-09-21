@@ -306,4 +306,4 @@ contract Bank {
 
 ← Previous: [Intro to Smart Contracts: The "Hello World" of Blockchain](https://github.com/HsinMuShen/blog/issues/16)  
 🏠 Series Home: [From Web Developer to Blockchain Engineer](https://github.com/HsinMuShen/blog/issues/11)  
-→ Next: Building a Token: ERC-20 and ERC-721 Standards
+→ Next: [Building a Token: ERC-20 and ERC-721 Standards](https://github.com/HsinMuShen/blog/issues/20)
