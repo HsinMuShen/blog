@@ -47,7 +47,7 @@ If you're a web developer curious about blockchain, or someone who wants a gentl
 ### 2.2 Part 2: Smart Contracts & dApp Development 🟡 Intermediate
 
 - **[Building a Token: ERC-20 and ERC-721 Standards](https://github.com/HsinMuShen/blog/issues/20)**
-- **Smart Contract Security: Common Vulnerabilities & How to Avoid Them**
+- **[Smart Contract Security: Common Vulnerabilities & How to Avoid Them](https://github.com/HsinMuShen/blog/issues/22)**
 - **Connecting Frontend to Blockchain: Web3.js vs Ethers.js**
 - **Building a Full dApp: From Smart Contract to UI**
 - **Event Handling & The Blockchain as a Backend**

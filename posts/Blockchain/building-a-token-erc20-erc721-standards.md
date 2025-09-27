@@ -258,4 +258,4 @@ await nftAsUser.getFunction("transferFrom")(owner, user, 0);
 
 ← Previous: [Deep Dive into Solidity: Syntax, Data Types & Functions](https://github.com/HsinMuShen/blog/issues/17)  
 🏠 Series Home: [From Web Developer to Blockchain Engineer](https://github.com/HsinMuShen/blog/issues/11)  
-→ Next: Smart Contract Security: Common Vulnerabilities & How to Avoid Them
+→ Next: [Smart Contract Security: Common Vulnerabilities & How to Avoid Them](https://github.com/HsinMuShen/blog/issues/22)

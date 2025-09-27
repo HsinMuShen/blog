@@ -33,6 +33,7 @@ This repository is my personal blog: each GitHub Issue captures lessons, experim
   - Part 1-4: [Intro to Smart Contracts: The "Hello World" of Blockchain](https://github.com/HsinMuShen/blog/issues/16)
   - Part 1-5: [Deep Dive into Solidity: Syntax, Data Types & Functions](https://github.com/HsinMuShen/blog/issues/17)
   - Part 2-1: [Building a Token: ERC-20 and ERC-721 Standards](https://github.com/HsinMuShen/blog/issues/20)
+  - Part 2-2: [Smart Contract Security: Common Vulnerabilities & How to Avoid Them](https://github.com/HsinMuShen/blog/issues/22)
 
   
 
